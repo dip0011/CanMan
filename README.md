@@ -4,7 +4,7 @@
 
 Forntend: ReactJS\
 Styling: Material-UI, BootStrap\
-Backend: NestJS\
+Backend: Node, Express\
 Database: MongoDB\
 Tools: VsCode, Chrome, Github
 
